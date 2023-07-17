@@ -4,13 +4,15 @@ Hi 👋 My name is Ramone Clarke
 I'm a full-stack web developer
 ------------------------------
 
-*   🌍  I'm based in London, England
+*   🌍  I'm based in London, United Kingdom
 *   🖥️  See my portfolio at [ramone.dev](http://ramone.dev)
 *   ✉️  You can contact me at [ramone@ramone.dev](mailto:ramone@ramone.dev)
 *   🚀  I'm currently working on [freelancing](http://ramone.dev)
 *   🧠  I'm learning Typescript
 *   🤝  I'm open to collaborating on interesting projects as a frontend developer using React
-*   ⚡  My specialty is front-end development with JavaScript and React/Next.js, complemented by backend skills in Python and Django.### Skills 
+*   ⚡  My specialty is front-end development with JavaScript and React/Next.js, complemented by backend skills in Python and Django.
+
+### Skills 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
@@ -25,13 +27,4 @@ I'm a full-stack web developer
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored-dark.svg" width="36" height="36" alt="Django" /></a>
 </p>
                     
-                  ### Socials
-                  
-                  
-                <p align="left">
-                          
-                      <a href="https://www.github.com/ramoneclarke" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="32" height="32" /></a>
-                          
-                      <a href="https://www.twitter.com/ramonev2" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>### Badges<b>My GitHub Stats</b><a
-                      href="http://www.github.com/ramoneclarke"><img
-                  src="https://github-readme-streak-stats.herokuapp.com/?user=ramoneclarke&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
